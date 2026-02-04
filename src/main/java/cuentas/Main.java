@@ -1,7 +1,10 @@
 package cuentas;
 
 public class Main {
-
+/**
+ * Autor Manuel Taboada
+ * 
+ */
     public static void main(String[] args) {
         operativa_cuenta(5000);
     }
